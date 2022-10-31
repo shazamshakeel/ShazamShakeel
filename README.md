@@ -11,7 +11,7 @@ A passionate software engineer who is driven by passion and loves what he does f
 * 🚀  I'm currently working on [BazaarGhar](http://www.BazaarGhar.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretly Superhuman .... but don't tell anyone
+* ⚡  I become Ace-Coder on deadlines 😉
 
 ### Skills
 
