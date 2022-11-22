@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shazam Shakeel
 ======================================================================================================================================
 
-Frontend Web Develoepr
+Frontend Web Developer
 ----------------------
 
 A passionate software engineer who is driven by passion and loves what he does for a living. Has strong problem-solving and analytical skills with a Bachelor's degree in Software Engineering from Govt College University, Faisalabad. A team player with an eye for detail. Good at meeting timelines and specifications. Open to learning new skills and continuous improvement. Experienced in javascript, ReactJS, NextJS, Redux, Material UI and data structures. More than 1-year of experience in building products to specifications using JavaScript and ReactJS.
