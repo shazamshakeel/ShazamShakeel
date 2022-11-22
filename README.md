@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Develoepr
 ----------------------
 
-A passionate software engineer who is driven by passion and loves what he does for a living. Strong problem-solving and analytical skills with a Bachelor's degree in Software Engineering from Govt College University, Faisalabad. A team player with an eye for detail. Open to learning new skills and continuous improvement. Experienced in javascript, ReactJS, NextJS, Redux, and data structures. More than 1-year of experience in building products to specifications using javascript and React, good at meeting timelines and specifications.
+A passionate software engineer who is driven by passion and loves what he does for a living. Has strong problem-solving and analytical skills with a Bachelor's degree in Software Engineering from Govt College University, Faisalabad. A team player with an eye for detail. Good at meeting timelines and specifications. Open to learning new skills and continuous improvement. Experienced in javascript, ReactJS, NextJS, Redux, Material UI and data structures. More than 1-year of experience in building products to specifications using javascript and React.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)
