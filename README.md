@@ -8,7 +8,7 @@ A passionate software engineer who is driven by passion and loves what he does f
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)
-* 🚀  I'm currently working on [BazaarGhar](http://www.BazaarGhar.com)
+* 🚀  I'm currently working as Frontend Developer at [BazaarGhar](http://www.BazaarGhar.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I become Ace-Coder on deadlines 😉
