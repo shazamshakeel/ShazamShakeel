@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------------
 
-Experienced software engineer with strong problem-solving skills and a passion for the field. Holds a Bachelor's degree in Computer Science. A detail-oriented team player who consistently meets timelines and specifications. Committed to ongoing learning and continuous improvement. More than 1 year of experience in building products to specifications.
+Experienced software engineer with strong problem-solving skills and a passion for the field. Holds a Bachelor's degree in Computer Science. A detail-oriented team player who consistently meets timelines and specifications. Committed to ongoing learning and continuous improvement. More than 3 years of experience in building products to specifications.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)
