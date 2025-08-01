@@ -7,7 +7,7 @@ Experienced software engineer with strong problem-solving skills and a passion f
 - 🌍 I'm based in Pakistan
 - ✉️ You can contact me at [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)
 - 🚀 I'm currently working as a Frontend Developer at [Vintega Solutions](https://vintegasolutions.com)
-- 🧠 I'm learning TypeScript
+- 🧠 I'm learning Backend
 - 🤝 I'm open to collaborating on interesting projects
 - ⚡ I become Ace-Coder on deadlines 😉
 
