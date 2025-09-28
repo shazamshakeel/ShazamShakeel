@@ -19,10 +19,10 @@ I’m passionate about solving complex problems, learning new technologies, and 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** JavaScript, TypeScript, React.js, Next.js, HTML, CSS
-**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Firebase, Nest.js (learning)
+**Frontend:** JavaScript, TypeScript, React.js, Next.js, HTML, CSS  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Firebase, Nest.js (learning)  
 **Libraries & Tools:** Redux Toolkit, RTK Query, TanStack Query, Tailwind CSS, Material UI, Shadcn UI, React Hook
-Form, Formik, Zod, Yup, Socket.io, Algolia, Typesense, Git, JWT, RESTful API, Payment Gateway Integration, Postman, Docker (basic)
+Form, Formik, Zod, Yup, Socket.io, Algolia, Typesense, Git, JWT, RESTful API, Payment Gateway Integration, Postman, Docker (basic)  
 
 ---
 
