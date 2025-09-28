@@ -1,15 +1,30 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shazam Shakeel
+# Hi there! 👋 I'm Shazam Shakeel  
 
-## Software Engineer
+### 💻 Software Engineer | Full Stack Developer  
 
-Experienced software engineer with strong problem-solving skills and a passion for the field. Holds a Bachelor's degree in Computer Science. A detail-oriented team player who consistently meets timelines and specifications. Committed to ongoing learning and continuous improvement. More than 3 years of experience in building products to specifications.
+Experienced **Software Engineer** with 3+ years of expertise in building high-quality, scalable applications.  
+I’m passionate about solving complex problems, learning new technologies, and creating impactful digital products.  
 
-- 🌍 I'm based in Pakistan
-- ✉️ You can contact me at [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)
-- 🚀 I'm currently working as a Frontend Developer at [Vintega Solutions](https://vintegasolutions.com)
-- 🧠 I'm learning Backend
-- 🤝 I'm open to collaborating on interesting projects
-- ⚡ I become Ace-Coder on deadlines 😉
+---
+
+## 🚀 About Me
+- 🌍 Based in **Pakistan**  
+- 💼 Currently working as a **MERN Stack Developer** at [Chainfore Pvt Ltd.](https://www.linkedin.com/company/chainfore)  
+- 🎓 Holds a **Bachelor’s Degree in Computer Science**  
+- 🧠 Currently learning **Nest.js (Backend Framework)**  
+- 🤝 Open to collaborating on **interesting projects**  
+- ⚡ Known as an **Ace-Coder on deadlines** 😉  
+- ✉️ Reach me at: [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)  
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS, Bootstrap  
+**Backend:** Node.js, Express.js, Nest.js (learning)  
+**Database:** MongoDB, MySQL  
+**Tools & Others:** Git, GitHub, REST APIs, Postman, JWT, Docker (basic)  
+
+---
 
 ### Skills
 
@@ -28,6 +43,11 @@ Experienced software engineer with strong problem-solving skills and a passion f
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+---
+
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/shazamshakeel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ShazamShakeel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/shazamshakeel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shazamshakeel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/shazamshakeel_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+---
+✨ *"Code. Collaborate. Create."*  
