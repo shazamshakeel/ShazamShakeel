@@ -33,8 +33,9 @@ Postman, Jira, GitHub, GitLab, Trello, Cursor, Windsurf, Claude Code, Figma
 ### Core Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css" />  
-<img src=" https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,nestjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,nestjs" />
 </p>
 
 ---
