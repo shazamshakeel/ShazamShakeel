@@ -33,8 +33,8 @@ Postman, Jira, GitHub, GitLab, Trello, Cursor, Windsurf, Claude Code, Figma
 ### Core Skills
 
 <p align="left">
- ![Frontend](https://skillicons.dev/icons?i=js,ts,react,next,html,css)
-[Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,nestjs)
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css" />  
+<img src=" https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,nestjs" />
 </p>
 
 ---
