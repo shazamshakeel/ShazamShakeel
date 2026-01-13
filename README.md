@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Shazam Shakeel  
 
 ### 💻 Software Engineer | Full Stack Developer  
+**[🌐 Visit My Portfolio](https://shazamshakeel.vercel.app/)**
 
 I’m Shazam Shakeel, a Full Stack Software Engineer with **4 years of experience** building high-quality web applications for startups and established businesses. I specialize in developing **eCommerce, SaaS, and enterprise platforms** that help companies strengthen their digital presence, simplify internal operations, and provide a better experience for their users.
 
