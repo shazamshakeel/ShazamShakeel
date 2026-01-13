@@ -2,19 +2,21 @@
 
 ### 💻 Software Engineer | Full Stack Developer  
 
-I’m Shazam Shakeel, a Software Engineer and Full Stack Developer with **3+ years of experience** building modern, high-quality web applications for businesses and startups. I’ve worked on **eCommerce**, **SaaS**, and **enterprise platforms**, helping companies enhance their digital presence, streamline operations, and provide smoother user experiences.
+I’m Shazam Shakeel, a Full Stack Software Engineer with **4 years of experience** building high-quality web applications for startups and established businesses. I specialize in developing **eCommerce, SaaS, and enterprise platforms** that help companies strengthen their digital presence, simplify internal operations, and provide a better experience for their users.
 
-At Vintega Solutions, I led the development of large-scale platforms for clients in the Middle East (KSA and UAE), managing a small team and helping improve performance, security, and customer engagement. I also designed admin panels, search systems, and analytics dashboards that enabled teams to make smarter, data-driven decisions.
+Currently, at **360Solutions**, I am working at the intersection of Climate-Tech and Green Fintech. I'm helping high-impact platforms like Netto.eco, which helps banks manage real estate decarbonization, and Ducky.eco, a tool for automated ESG reporting. My work involves building the integrations and data pipelines necessary to turn climate science into practical, user-friendly software.
 
-I’m passionate about creating products that are visually appealing, user-friendly, and business-focused—whether that involves boosting website performance, developing new features, or automating processes. My goal is to help companies and clients turn ideas into reliable, impactful digital solutions that produce real results. 
+Previously at **Vintega Solutions**, I led the development of large-scale platforms for clients in the Middle East (KSA and UAE), managing a small team and helping improve performance, security, and customer engagement. I also designed admin panels, search systems, and analytics dashboards that enabled teams to make smarter, data-driven decisions.
+
+I am passionate about creating products that are functional, visually clean, and focused on business goals. Whether I am optimizing site performance or automating a manual process, my goal is always the same: to help clients turn their ideas into reliable digital solutions that deliver real-world results.
 
 ---
 
 ## 🚀 Key Highlights
 - 🌍 Based in **Pakistan**  
-- 💼 Currently working as a **Full Stack Developer** at [Vintega Solutions Pvt Ltd.](https://vintegasolutions.com/)  
+- 💼 Currently working as a **Software Engineer** at [360Solutions Global LLC.](https://360solutions.dev)  
 - 🎓 Holds a **Bachelor’s Degree in Computer Science**  
-- 🧠 Currently learning **Nest.js (Backend Framework)**  
+- 🧠 Currently learning **Nest.js**  
 - 🤝 Open to collaborating on **interesting projects**  
 - ⚡ Known as an **Ace-Coder on deadlines** 😉  
 - ✉️ Reach me at: [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)  
@@ -23,10 +25,10 @@ I’m passionate about creating products that are visually appealing, user-frien
 
 ## 🛠️ Tech Stack
 **Frontend:** JavaScript, TypeScript, React.js, Next.js, HTML, CSS  
-**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Redis, Nest.js (learning)  
-**Libraries & Tools:** Redux Toolkit, RTK Query, TanStack Query, Tailwind CSS, Material UI, Shadcn UI, React Hook Form  
-Formik, Zod, Yup, Socket.io, Mongoose, Sequelize, Multer, Joi, Jest, Algolia, Typesense, Git, RESTful API, Docker (basic)  
-Postman, Jira, GitHub, GitLab, Trello, Cursor, Windsurf, Claude Code, Figma    
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Redis, Nest.js  
+**Libraries & Tools:** Redux Toolkit, RTK Query, TanStack Query, Zustand, Tailwind CSS, Material UI, Shadcn UI, Hero UI, 
+React Hook Form, Formik, Zod, Yup, Socket.io, Mongoose, Sequelize, Multer, Joi, Jest, Vitest, Algolia, Typesense, Git 
+Docker, RESTful API, Postman, Jira, Asana, Notion, GitHub, GitLab, Trello, Cursor, Windsurf, Claude Code, Figma    
 
 ---
 
@@ -51,4 +53,4 @@ Postman, Jira, GitHub, GitLab, Trello, Cursor, Windsurf, Claude Code, Figma
 </p>
 
 ---
-✨ *"Code. Collaborate. Create."*  
+✨ *"Collaborate. Code. Create."*  
