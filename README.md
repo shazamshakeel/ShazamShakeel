@@ -1,23 +1,23 @@
 # Hi there! 👋 I'm Shazam Shakeel  
 
-### 💻 Software Engineer | Full Stack Developer  
+### 💻 Software Engineer | Frontend Developer  
 [![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shazamshakeel.vercel.app/)
 
-I’m Shazam Shakeel, a Full Stack Software Engineer with **4 years of experience** building high-quality web applications for startups and established businesses. I specialize in developing **eCommerce, SaaS, and enterprise platforms** that help companies strengthen their digital presence, simplify internal operations, and provide a better experience for their users.
+I'm a Frontend Engineer with **4+ years** of experience building scalable web applications using React.js, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
 
-Currently, at **360Solutions**, I am working at the intersection of Climate-Tech and Green Fintech. I'm helping high-impact platforms like Netto.eco, which helps banks manage real estate decarbonization, and Ducky.eco, a tool for automated ESG reporting. My work involves building the integrations and data pipelines necessary to turn climate science into practical, user-friendly software.
+Currently at **360Solutions**, I build financial-grade climate-tech solutions that help banks automate ESG reporting, assess sustainability risks, and evaluate green-loan eligibility. My work includes developing data-intensive applications, integrating sustainability datasets, and delivering tooling that transforms complex climate and financial data into actionable insights.
 
-Previously at **Vintega Solutions**, I led the development of large-scale platforms for clients in the Middle East (KSA and UAE), managing a small team and helping improve performance, security, and customer engagement. I also designed admin panels, search systems, and analytics dashboards that enabled teams to make smarter, data-driven decisions.
+Previously at **Vintega Solutions**, I led a team of 5 engineers in delivering large-scale marketplace platforms for the KSA and UAE markets. I worked across architecture, search infrastructure, live-streaming systems, analytics, and payment integrations, helping improve platform performance, user engagement, and operational efficiency.
 
-I am passionate about creating products that are functional, visually clean, and focused on business goals. Whether I am optimizing site performance or automating a manual process, my goal is always the same: to help clients turn their ideas into reliable digital solutions that deliver real-world results.
+I enjoy solving complex product challenges through clean architecture and thoughtful engineering. Whether optimizing application performance, designing scalable frontend systems, or building business-critical workflows, I focus on delivering reliable software that creates measurable impact for users and organizations.
 
 ---
 
 ## 🚀 Key Highlights
 - 🌍 Based in **Pakistan**  
-- 💼 Currently working as a **Software Engineer** at [360Solutions Global LLC.](https://360solutions.dev)  
+- 💼 Currently working as a **Senior Frontend Developer** at [360Solutions Global LLC.](https://360solutions.dev)  
 - 🎓 Holds a **Bachelor’s Degree in Computer Science**  
-- 🧠 Currently learning **Nest.js**  
+- 🧠 Currently learning **Django**  
 - 🤝 Open to collaborating on **interesting projects**  
 - ⚡ Known as an **Ace-Coder on deadlines** 😉  
 - ✉️ Reach me at: [ShazamShakeel786@gmail.com](mailto:ShazamShakeel786@gmail.com)  
@@ -25,11 +25,11 @@ I am passionate about creating products that are functional, visually clean, and
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** JavaScript, TypeScript, React.js, Next.js, HTML, CSS  
-**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Redis, Nest.js  
-**Libraries & Tools:** Redux Toolkit, RTK Query, TanStack Query, Zustand, Tailwind CSS, Material UI, Shadcn UI, Hero UI, 
-React Hook Form, Formik, Zod, Yup, Socket.io, Mongoose, Sequelize, Multer, Joi, Jest, Vitest, Algolia, Typesense, Git 
-Docker, RESTful API, Postman, Jira, Asana, Notion, GitHub, GitLab, Trello, Cursor, Windsurf, Claude Code, Figma    
+**Languages:** JavaScript, TypeScript, HTML5, CSS3, Python  
+**Frontend:** React.js, Next.js, Astro, Redux Toolkit, RTK Query, Zustand, TanStack Query, React Hook Form, Zod, Tailwind CSS, Material UI, Shadcn UI, Socket.io, i18n / Internationalization  
+**Backend:** Node.js, Express.js, Django, PostgreSQL, Redis  
+**Build & DevOps:** Vite, Webpack, Turborepo, CI/CD, Docker, Git  
+**Testing & Tools:** Jest, Vitest, Storybook, Postman, Jira, Asana, Notion  
 
 ---
 
