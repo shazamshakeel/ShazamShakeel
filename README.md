@@ -3,7 +3,7 @@
 ### 💻 Software Engineer | Frontend Developer  
 [![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shazamshakeel.vercel.app/)
 
-I'm a Frontend Engineer with **4+ years** of experience building scalable web applications using React.js, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
+I'm a Frontend Developer with **4+ years** of experience building scalable web applications using React.js, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
 
 Currently at **360Solutions**, I build financial-grade climate-tech solutions that help banks automate ESG reporting, assess sustainability risks, and evaluate green-loan eligibility. My work includes developing data-intensive applications, integrating sustainability datasets, and delivering tooling that transforms complex climate and financial data into actionable insights.
 
