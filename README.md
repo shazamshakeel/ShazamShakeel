@@ -3,9 +3,9 @@
 ### 💻 Software Engineer | Frontend Developer  
 [![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shazamshakeel.vercel.app/)
 
-I'm a Frontend Developer with **4+ years** of experience building scalable web applications using React.js, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
+I'm a Frontend Developer with **5+ years** of experience building scalable web applications using React.js, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
 
-Currently at **360Solutions**, I build financial-grade climate-tech solutions that help banks automate ESG reporting, assess sustainability risks, and evaluate green-loan eligibility. My work includes developing data-intensive applications, integrating sustainability datasets, and delivering tooling that transforms complex climate and financial data into actionable insights.
+Currently at **360Solutions**, my main focus is Search Atlas, an AI-powered SEO and automation platform, where I shipped the Smart Ads module — Performance Max, Search, and retargeting campaign experiences driven by AI-generated keywords, ad copy, and optimization recommendations. Alongside that, I built financial-grade climate products that help banks automate ESG reporting, assess sustainability risks, and evaluate green-loan eligibility, transforming complex climate and financial data into actionable insights.
 
 Previously at **Vintega Solutions**, I led a team of 5 engineers in delivering large-scale marketplace platforms for the KSA and UAE markets. I worked across architecture, search infrastructure, live-streaming systems, analytics, and payment integrations, helping improve platform performance, user engagement, and operational efficiency.
 
