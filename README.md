@@ -3,7 +3,7 @@
 ### 💻 Software Engineer | Frontend Developer  
 [![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shazamshakeel.vercel.app/)
 
-I'm a Frontend Developer with **5+ years** of experience building scalable web applications using React.js, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
+I'm a Frontend Developer with **5 years** of experience building scalable web applications using React.js, Next.js, and TypeScript. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
 
 Currently at **360Solutions**, my main focus is Search Atlas, an AI-powered SEO and automation platform, where I shipped the Smart Ads module — Performance Max, Search, and retargeting campaign experiences driven by AI-generated keywords, ad copy, and optimization recommendations. Alongside that, I built financial-grade climate products that help banks automate ESG reporting, assess sustainability risks, and evaluate green-loan eligibility, transforming complex climate and financial data into actionable insights.
 
