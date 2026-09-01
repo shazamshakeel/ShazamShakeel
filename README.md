@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Shazam Shakeel  
+# Hi there! 👋 I'm Shazam  
 
 ### 💻 Software Engineer | Full Stack Developer  
-[![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shazamshakeel.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shazamshakeel.dev/)
 
 I'm a Frontend-Focused Software Engineer with **5 years** of experience building scalable web applications using TypeScript, React.js, Node.js and PostgreSQL. I specialize in frontend architecture, performance optimization, real-time systems, and creating intuitive user experiences for SaaS, marketplace, fintech, and climate-tech products.
 
@@ -15,9 +15,9 @@ I enjoy solving complex product challenges through clean architecture and though
 
 ## 🚀 Key Highlights
 - 🌍 Based in **Pakistan**  
-- 💼 Currently working as a **Senior Frontend Developer** at [360Solutions Global LLC.](https://360solutions.dev)  
+- 💼 Currently working as a **Sofware Engineer** at [360Solutions Global LLC.](https://360solutions.dev)  
 - 🎓 Holds a **Bachelor’s Degree in Computer Science**  
-- 🧠 Currently learning **Django**  
+- 🧠 Currently learning **Python**  
 - 🤝 Open to collaborating on **interesting projects**  
 - ⚡ Known as an **Ace-Coder on deadlines** 😉  
 - ✉️ Reach me at: [contact@shazamshakeel.dev](mailto:contact@shazamshakeel.dev)  
@@ -25,20 +25,21 @@ I enjoy solving complex product challenges through clean architecture and though
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** JavaScript, TypeScript, HTML5, CSS3, Python  
+**Languages:** JavaScript, TypeScript, HTML5, CSS3  
 **Frontend:** React.js, Next.js, Astro, Redux Toolkit, RTK Query, Zustand, TanStack Query, React Hook Form, Zod, Tailwind CSS, Material UI, Shadcn UI, Socket.io, i18n / Internationalization  
-**Backend:** Node.js, Express.js, Django, PostgreSQL, Redis  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Supabase, Redis, Prisma, RESTful APIs   
 **Build & DevOps:** Vite, Webpack, Turborepo, CI/CD, Docker, Git  
 **Testing & Tools:** Jest, Vitest, Storybook, Postman, Jira, Asana, Notion  
+**AI & Automation:** n8n, Agentic AI, Claude Code, Cursor, MCP  
 
 ---
 
 ### Core Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,astro,html,css" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,redis,supabase,prisma" />
 </p>
 
 ---
@@ -54,4 +55,4 @@ I enjoy solving complex product challenges through clean architecture and though
 </p>
 
 ---
-✨ *"Collaborate. Code. Create."*  
+✨ *"Collaborate, Plan, Create & Deploy"*  
